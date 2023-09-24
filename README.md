@@ -1,4 +1,4 @@
-<h1 align = "center">Sales Analysis Project</h1>
+<h1 align = "center">Sales Analysis</h1>
 
 <p align="center">This repository contains code to analyze sales data and gain insights.</p>
 
